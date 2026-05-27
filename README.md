@@ -77,5 +77,5 @@ Gambar word cloud otomatis dibuat saat sel visualisasi dijalankan:
 Sebelum pembersihan
 ![Word Cloud Raw](data/processed/wordcloud_raw.png)
 
-Sesudah pembersihan
+Sesudah pembersihanN
 ![Word Cloud Clean](data/processed/wordcloud_clean.png)
