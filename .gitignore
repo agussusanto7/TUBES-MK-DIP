@@ -1,0 +1,13 @@
+results_indobert/
+
+data/
+
+__pycache__/
+venv/
+.venv/
+
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.csv
