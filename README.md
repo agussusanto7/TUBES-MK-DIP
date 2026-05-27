@@ -70,8 +70,12 @@ Program ini membangun **pipeline preprocessing otomatis** untuk komentar YouTube
   - `text_normalized`: hasil normalisasi slang
   - `label`: label kategori berbasis keyword (konfigurasi di notebook)
 
-## Word Cloud
+---
+## Visualisasi Word Cloud (sebelum vs sesudah pembersihan)
 Gambar word cloud otomatis dibuat saat sel visualisasi dijalankan:
 
+Sebelum pembersihan
 ![Word Cloud Raw](data/processed/wordcloud_raw.png)
+
+Sesudah pembersihan
 ![Word Cloud Clean](data/processed/wordcloud_clean.png)
